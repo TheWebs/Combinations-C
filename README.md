@@ -6,3 +6,9 @@ However that wouldn't help at all when doing the same with letters.This way it's
 * Calculates all combinations with 4 digits
 * Calculates all combinations with 5 digits
 * The 5 digits combinations calculation is presented with colors!
+
+#Christmas is comming
+
+*:santa:
+*:christmas_tree:
+*:gift:
