@@ -9,6 +9,6 @@ However that wouldn't help at all when doing the same with letters.This way it's
 
 #Christmas is comming
 
-*:santa:
-*:christmas_tree:
-*:gift:
+* :santa:
+* :christmas_tree:
+* :gift:
